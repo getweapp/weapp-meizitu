@@ -19,9 +19,9 @@
 
 微信web开发者工具 v0.10.102800
 
-### 源码地址：
+### 项目截图：
 
-https://github.com/getweapp/weapp-meizitu
+https://www.getweapp.com/project?projectId=583129e05d2529e140da1b2d
 
 ### 感谢:
 
